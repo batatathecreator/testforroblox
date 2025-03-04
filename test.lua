@@ -1,1 +1,3 @@
-print("hi!")
+function start()
+  print("hi")
+end
